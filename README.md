@@ -9,7 +9,7 @@ MongoDB is the database and works on express server
 
 
 /////////////////////
-<img src="https://github.com/Saurabh-crypto16/tiktok-mern/blob/master/ss1.png" width="2500" height="800" />
+<img src="https://github.com/Saurabh-crypto16/tiktok-mern/blob/master/ss1.png" width="2200" height="600" />
 
 ////////////////////
-<img src="https://github.com/Saurabh-crypto16/tiktok-mern/blob/master/ss2.png" width="2500" height="800" />
+<img src="https://github.com/Saurabh-crypto16/tiktok-mern/blob/master/ss2.png" width="2200" height="600" />
